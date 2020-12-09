@@ -1,0 +1,2 @@
+.image{display:grid;grid-template-columns:repeat(4,1fr);grid-template-rows:repeat(4,1fr);grid-gap:10px}.board{position:fixed;left:1100px;top:40px;background-color:green;color:#fff;opacity:.8;width:130px;border-radius:10%}.app{background-color:#dac7c7}.h1{text-align:center}
+/*# sourceMappingURL=main.f6df6b85.chunk.css.map */
